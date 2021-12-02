@@ -3,8 +3,25 @@ margin: 0px;
 padding: 0px;
 }
 body{
-    background-color: darkcyan;
+    background-image:url(/multimedia/gitgithub.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: black;
+}
+h1{
+    color: black;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 3rem;
+    letter-spacing: 2px;
+}
+span{
+    color: rgb(255, 102, 0);
 }
 p{
-    color: darkgrey;
+    margin-top: 2rem;
+    color: black;
+    text-align: center;
 }

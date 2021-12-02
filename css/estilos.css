@@ -4,11 +4,30 @@
 }
 
 body {
-  background-color: darkcyan;
+  background-image: url(/multimedia/gitgithub.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: black;
+}
+
+h1 {
+  color: black;
+  text-decoration: underline;
+  text-align: center;
+  font-size: 3rem;
+  letter-spacing: 2px;
+}
+
+span {
+  color: #ff6600;
 }
 
 p {
-  color: darkgrey;
+  margin-top: 2rem;
+  color: black;
+  text-align: center;
 }
 
 /*# sourceMappingURL=estilos.css.map */
